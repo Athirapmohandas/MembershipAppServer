@@ -18,6 +18,7 @@ A full-featured membership backend built with **Node.js**, **Express**, **Sequel
 ```bash
 git clone https://github.com/Athirapmohandas/MembershipAppServer.git
 cd MembershipAppServer
+Duplicate .env file in the folder 
 npm install
 npm run dev
 
