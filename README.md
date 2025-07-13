@@ -8,7 +8,7 @@ A full-featured membership backend built with **Node.js**, **Express**, **Sequel
 - Notifications
 - File upload for payment receipts
 - Admin dashboard APIs
-- Swagger API documentation
+- Swagger API documentation   
 - Cron jobs for automation
 
 ---
@@ -16,7 +16,13 @@ A full-featured membership backend built with **Node.js**, **Express**, **Sequel
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/your-username/membership-backend.git
-cd membership-backend
+git clone https://github.com/Athirapmohandas/MembershipAppServer.git
+cd MembershipAppServer
 npm install
+npm run dev
+
+
+📘 **API Documentation**
+
+Swagger UI is available at: [http://localhost:3000/api-docs](http://localhost:3000/api-docs)
 
